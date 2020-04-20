@@ -1,0 +1,22 @@
+			**CIA-2 RESULT**
+			----------------
+
+NAME:-SALMAN KHAN
+
+YEAR:-3-YEAR					SEM:-6-SEM
+
+COLLEGE:-S.S.JAIN SUBODH PG COLLEGE		ID:-05
+
+
+SUBJECT						TOTAL		OBTAINED MARKS
+-------------------------------------------------------------------------------
+MANGEMENT INFORMATION SYSTEM			30		29
+NETWORK SECURITY AND CRYPTOLOGY			30		25
+DATA WAREHOUSING AND DATA MINING		30		24
+ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEMS	30		22
+ANIMATION AND MULTIMEDIA			30		20
+-------------------------------------------------------------------------------
+TOTAL						120		120
+-------------------------------------------------------------------------------
+PERCENTAGE							80%
+------------------------------------------------------------------------------
