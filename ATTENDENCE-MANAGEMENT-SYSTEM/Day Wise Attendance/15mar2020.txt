@@ -1,0 +1,7 @@
+NAME.				ROLL NO.		PRESENT(YES/NO)
+madhuvrat gupta			1			yes
+rahul gupta			2			no
+john cena			3			yes
+raj gupta			4			no
+poonam			        5			yes
+kuldeep gupta			6			no
